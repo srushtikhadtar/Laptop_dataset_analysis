@@ -38,6 +38,14 @@ The dataset is collected from **Kaggle** and contains information about differen
 * **Brand:** Manufacturer of the laptop.
 * **Warranty:** Warranty period provided with the laptop.
 
+### 6. Data Cleaning
+
+* Checked the dataset structure using `DESCRIBE`.
+* Checked for missing values.
+* Identified unique values in categorical columns.
+* Checked incorrect or blank values.
+* Standardized data where required.
+* Verified price and rating values.
 
 ### 7. Exploratory Data Analysis (EDA)
 
@@ -71,12 +79,26 @@ The project answers questions such as:
 * Compared **pricing across different brands**.
 * Analyzed laptop distribution based on **RAM, processor, and operating system**.
 
+### 10. SQL Concepts Used
+
+* `SELECT`
+* `WHERE`
+* `DISTINCT`
+* `COUNT()`
+* `SUM()`
+* `AVG()`
+* `MIN()`
+* `MAX()`
+* `GROUP BY`
+* `HAVING`
+* `ORDER BY`
+* `LIMIT`
+* `CASE`
+* Subqueries
 
 ### 11. Tools Used
 
 * **MySQL** – Data analysis and SQL queries
 * **Kaggle** – Dataset source
 * **GitHub** – Project documentation and code storage
-* **Excel
-
 
